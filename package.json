@@ -1,0 +1,19 @@
+{
+  "name": "landing-scientific",
+  "version": "1.0.0",
+  "description": "Single Page Application con JavaScript vanilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danna2123/landing-scientific.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danna2123/landing-scientific/issues"
+  },
+  "homepage": "https://github.com/danna2123/landing-scientific#readme"
+}
